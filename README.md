@@ -26,25 +26,25 @@ I also think being a good team member means to listen to co-workers and cooperat
 
 Summarize the project and what problem it was solving:
 
-
+I choose to submit the Project 2 Banking program from Module 5. The program is an investment calculator, where it asks the user for relevant information such as the initial investment amount, how much they will invest per month for how many years, and the annual interest percentage and then calculates the monetary total amount in the account for each year.
 
 What did you do particularly well?
 
-
+I'm very happy with the clean formatting of the information in the menu(s), as well as I think I handled the calculations well in the code.
 
 Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 
-
+I think this code could be enhanced by only showing the year the user requested rather than dumping all the data at once. There could then be another prompt for the user to find data for a specific year if they need it. There could also be an option to write the data to txt file, so that the user can easily access the information at a later date without having to re-run the program. I think changes like these would make the program more efficient and useful for the user to use regularly.
 
 Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 
-
+The calculations were the most difficult to write, because I struggled at first having thing display correctly or at all. I then had to double check the math to make sure It was calculating the input correctly (For example, if I didn't initially follow pemdas I would end up with different results).
 
 What skills from this project will be particularly transferable to other projects or course work?
 
-
+The best practices of programming is utilized and easily transferable from this project to the next. I also think the proper use of a .h file is great to keep in mind and possibly use in future projects.
 
 How did you make this program maintainable, readable, and adaptable?
 
-
+Commenting important information in the code helped with making the code maintainable and readable. It was easy to find and remember what specific parts of the code were doing with identifier comments and descriptive comments for fixing errors. This also made it so that the code could be understood and adapted by someone else.
 
