@@ -1,7 +1,8 @@
 # ProgrammingPortfolioMC
 My professional Portfolio for my college programming classes and more.
 
-CS 250 Software Development Lifecycle:
+**CS 250 Software Development Lifecycle:**
+
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 Interpreting any users needs will usually start by analizing the system being used.
@@ -21,7 +22,8 @@ What does it mean to be a good team member in software development?
 I think being a good team member means to make sure you are thouroughly understanding your part of the project and making sure you are not lagging behind, which will make the team fall behind. 
 I also think being a good team member means to listen to co-workers and cooperate well. Good team members should also be willing to help anyone on the team who may need it.
 
-CS 210 Programming Languages:
+**CS 210 Programming Languages:**
+
 Summarize the project and what problem it was solving:
 
 
