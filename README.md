@@ -2,43 +2,44 @@
 My professional Portfolio for my college programming classes and more.
 
 **CS 230 Operating Platforms:**
+
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
-dfgvhbjn
+The client is 'The Gaming Room', who are currently developing a game called 'Draw it or Lose it' for mobile devices. They were interested in improving their software functionality and expand the platforms the game operates on. 
 
 What did you do particularly well in developing this documentation?
 
-dsfghjkl;l
+I think I did well at formulating my thoughts and presenting a clear advisory path in the documentation. I also think I did well at explaining why I advised what I did.
 
 What about the process of working through a design document did you find helpful when developing the code?
 
-ghjkl;
+A design document inherently helps keep things organized and focused, and create a hierarchy of which tasks are the most important.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-dfdghjkl;
+Despite my confidence in my explanations, I'm not as confidant in the recomendations themselves being the best option. I think I would review them and decide if the recommendation was the best and justify the explanations I made.
 
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
-sdfghjkl;'
+Essentially the functionality was seperated into parts in order to lessen the amount of time spent on expanding to other platforms. It's important to consider the users needs while designing the software because the developers can better avoid major issues with the product and ensure the the client will actually use the product.
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
-sdfghjkl;'
+I focus in on making documentation clear and consistent, as well as developing in a way that makes updates and maintanence easier (In theory). I will keep this process for myself in the future, unless there is a specific situation where I need to deviate from it.
 
 **CS 320 Software Test, Automation QA:**
 
 How can I ensure that my code, program, or software is functional and secure?
 
-sdfghjkl
+The best way to do that is to run and debug the code often and utilize unit tests effectively. If there are no failures, then I can move on to making the working code more secure.
 
 How do I interpret user needs and incorporate them into a program?
 
-dghjk
+User needs are essentially a developers "General Guideline", where it can be loosely followed while incorporating standardized practices. Communication must be maintained in order to adapt to any changes or additional needs. This helps ensure that the final product funtions as intended, and that the client is satisfied.
 
 How do I approach designing software?
 
-sdfghjkl;
+Stay up to date on current best practice guidlines. It's also important to think about if the current way of doing things is truly working the best it can, or if something different would work better.
 
 **CS 250 Software Development Lifecycle:**
 
