@@ -1,6 +1,45 @@
 # ProgrammingPortfolioMC
 My professional Portfolio for my college programming classes and more.
 
+**CS 230 Operating Platforms:**
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+
+dfgvhbjn
+
+What did you do particularly well in developing this documentation?
+
+dsfghjkl;l
+
+What about the process of working through a design document did you find helpful when developing the code?
+
+ghjkl;
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+dfdghjkl;
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+
+sdfghjkl;'
+
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+sdfghjkl;'
+
+**CS 320 Software Test, Automation QA:**
+
+How can I ensure that my code, program, or software is functional and secure?
+
+sdfghjkl
+
+How do I interpret user needs and incorporate them into a program?
+
+dghjk
+
+How do I approach designing software?
+
+sdfghjkl;
+
 **CS 250 Software Development Lifecycle:**
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
