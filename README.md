@@ -13,7 +13,7 @@ I think I created my diagrams well, as it helped me better understand the concep
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-I would choose my UML sequence diagram to revise because I think it doesn't look that good visually but also I think I could have been more clear on that each group is doing in the process.
+I would choose my UML sequence diagram to revise because I think it doesn't look that good visually but also I think I could have been more clear on what each group is doing in the process.
 
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
