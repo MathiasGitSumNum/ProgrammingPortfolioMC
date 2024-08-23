@@ -2,6 +2,7 @@
 My professional Portfolio for my college programming classes and more.
 
 **CS 255 System Analysis and Design:**
+
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
 DriverPass is a program that was intended to improve driving education by providing learning resources in paid packages, and also provide hands on training. This system was designed to operate online and collect data to help the students trying to improve their driving and pass their drivers test.
@@ -23,6 +24,7 @@ How do you approach designing software? What techniques or strategies would you 
 I approached designing software with the iterative approach, taking each aspect step by step. I worried less about specific details, rather focusing on the design parts as a whole and saving the details for after I decide each part is correct.
 
 **CS 330 Comp Graphics and Visualisation**
+
 How do I approach designing software?
 
 When designing software I approach the project iteratively. After reviewing all of the requirements, I look at each part and make sure to complete what is absolutely necessary, and then work on specific details later once everything is established. This approach helped make things easier for me when solving problems that arise.
