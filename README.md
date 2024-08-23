@@ -1,6 +1,40 @@
 # ProgrammingPortfolioMC
 My professional Portfolio for my college programming classes and more.
 
+**CS 255 System Analysis and Design:**
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
+DriverPass is a program that was intended to improve driving education by providing learning resources in paid packages, and also provide hands on training. This system was designed to operate online and collect data to help the students trying to improve their driving and pass their drivers test.
+
+What did you do particularly well?
+
+I think I created my diagrams well, as it helped me better understand the concepts behind them in a visual way.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+I would choose my UML sequence diagram to revise because I think it doesn't look that good visually but also I think I could have been more clear on that each group is doing in the process.
+
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+
+Considering the user's needs helped me when making design decisions from the beginning. If I hadn't considered the users specific needs the diagrams may have been to broad to be useful for the proposed problem.
+
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+I approached designing software with the iterative approach, taking each aspect step by step. I worried less about specific details, rather focusing on the design parts as a whole and saving the details for after I decide each part is correct.
+
+**CS 330 Comp Graphics and Visualisation**
+How do I approach designing software?
+
+When designing software I approach the project iteratively. After reviewing all of the requirements, I look at each part and make sure to complete what is absolutely necessary, and then work on specific details later once everything is established. This approach helped make things easier for me when solving problems that arise.
+  
+How do I approach developing programs?
+
+When actually creating the software, I do things essentially the same way. I start with a very basic program that meets the base necessary requirements, and then add more after to flesh out the project and meet more detailed requirements. 
+  
+How can computer science help me in reaching my goals?
+
+Computer Science helps me reach my goals by being the basis for my career goal of Videogame development. I dream of being part of a team that creates something that others enjoy to play and talk about. Understanding the concepts of this cource, even if it's not what I want to do on a development team, only serves to help me in the long run.
+
 **CS 230 Operating Platforms:**
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
