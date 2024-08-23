@@ -25,6 +25,8 @@ I approached designing software with the iterative approach, taking each aspect 
 
 **CS 330 Comp Graphics and Visualisation**
 
+**UNABLE TO UPLOAD 3D SCENE FILE, APPARENTLY IT IS TOO LARGE FOR GITHUB**
+
 How do I approach designing software?
 
 When designing software I approach the project iteratively. After reviewing all of the requirements, I look at each part and make sure to complete what is absolutely necessary, and then work on specific details later once everything is established. This approach helped make things easier for me when solving problems that arise.
