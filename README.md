@@ -126,3 +126,35 @@ How did you make this program maintainable, readable, and adaptable?
 
 Commenting important information in the code helped with making the code maintainable and readable. It was easy to find and remember what specific parts of the code were doing with identifier comments and descriptive comments for fixing errors. This also made it so that the code could be understood and adapted by someone else.
 
+**CS 340 Client/Server Development:**
+
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+Programs are created with all of these aspects by thuroughly considering each use case of the program. When the program is easy to comprehend and adaptable, it makes the program easier to maintain and better for future uses. With the CRUD module, it can be easily expanded and used in future MongoDB Projects.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+I approach computer science problems with a logical plan and an analytical approach. For the project, I made an effort to fully understand and make design decisions based on the requirements before touching any code. This differed from previous modules as I had to understand everything I could before starting rather than taking things step by step. In the future where I potentially need what I learned from this course I will generally know how to implement creation and aggregation of data methods for a clients benefit.
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer scientist engineer and develop computer-based solutions to streamline processes in the work environment. This matters for said work environment because data can be processed quicker than before and improve productivity with the aid of computer hardware. My own work on this project helps the company by providing relevant information in the database in an organized manner, saving them work time trying to find the information manualy.
+
+**CS 370 Current/Emerging Trends in CS**
+
+Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+
+A large portion of the code was provided, but I did write the code within the main loop of the application that allowed the agent to decide its movements and what was the most efficient path.
+
+Connect your learning from throughout this course to the larger field of computer science:
+What do computer scientists do and why does it matter?
+
+Computer scientists design, develop and analyze both software and hardware used in computer systems to solve problems in many different industries. This matters as it serves to improve and advance the way all professional fields operate.
+
+How do I approach a problem as a computer scientist?
+
+I try to understand each step I need to take in order to acomplish a given task. Then I analyze what is done well in my solution and what I can improve upon, or if something has to be changed to meet a certain requirement. This method does not always work, as sometimes there is no steps to follow, or the end goal is not clear. However, I believe this is the best process to work through most computer science problems.
+
+What are my ethical responsibilities to the end user and the organization?
+
+The ethical responsibilities to the end user are primarily relating to transperency. There is a large part of cyber security that focuses on protecting users personal information, and for those creating AI systems, what ways they can safely use that information while also avoiding biases and other ethical concerns in their system.
