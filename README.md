@@ -25,7 +25,7 @@ I approached designing software with the iterative approach, taking each aspect 
 
 **CS 330 Comp Graphics and Visualisation**
 
-**UNABLE TO UPLOAD 3D SCENE FILE, APPARENTLY IT IS TOO LARGE FOR GITHUB**
+**UNABLE TO UPLOAD 3D SCENE FILE, IT IS TOO LARGE FOR GITHUB**
 
 How do I approach designing software?
 
