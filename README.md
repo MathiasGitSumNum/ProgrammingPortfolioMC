@@ -23,6 +23,14 @@ How do you approach designing software? What techniques or strategies would you 
 
 I approached designing software with the iterative approach, taking each aspect step by step. I worried less about specific details, rather focusing on the design parts as a whole and saving the details for after I decide each part is correct.
 
+**CS 305 Software Security**
+
+Artemis Financial is a financial firm looking to create financial services for their clients, where they can choosedifferent plans based on their needs. They are also looking to incorporate security measures that ensure the information being transferred is secured, and there is no unauthorized access occuring. Therefore the code must be written securely because it provides less chances to have weakness' that allow for hackers to by pass security. Software security adds credibility to a company's overall wellbeing. One thing I think could be improved is the dependency checks and suppression of false positives, in order to further improve the security measures.
+
+Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+
+Please review the document titled "CS305ProjectTwo_MattCarrillo". This is the Practices for Secure Software Report.
+
 **CS 330 Comp Graphics and Visualisation**
 
 **UNABLE TO UPLOAD 3D SCENE FILE, IT IS TOO LARGE FOR GITHUB**
